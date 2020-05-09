@@ -1,0 +1,2 @@
+Try to create my own programming language with python
+I named king lang but I can change it later.
